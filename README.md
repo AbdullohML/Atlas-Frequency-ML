@@ -4,10 +4,6 @@ These tasks were presented in the **Introduction to Machine Learning** course as
 
 The assignment consists of three independent machine learning tasks:
 
-* image classification with CNN
-* high-dimensional tabular classification
-* compact ANN anomaly detection
-
 ---
 
 # Task Descriptions
